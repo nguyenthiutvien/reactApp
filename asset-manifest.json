@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.295d5aab.css",
+    "main.js": "/reactApp/static/js/main.d0e64122.js",
+    "static/media/googleLogo.png": "/reactApp/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/reactApp/index.html",
+    "main.295d5aab.css.map": "/reactApp/static/css/main.295d5aab.css.map",
+    "main.d0e64122.js.map": "/reactApp/static/js/main.d0e64122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.295d5aab.css",
+    "static/js/main.d0e64122.js"
+  ]
+}
